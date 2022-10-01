@@ -1,5 +1,5 @@
 function Translate(word,language){
-    this.apikey = "21ea1d900f5efea546a2"
+    this.apikey = APIKEY
     this.word = word;
     this.language = language;
 
